@@ -1,0 +1,6 @@
+# Edgio generated build directory
+/.edgio
+
+/node_modules
+package-lock.json
+.DS_Store
